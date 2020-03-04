@@ -1,2 +1,0 @@
-# rings
-Created with CodeSandbox
